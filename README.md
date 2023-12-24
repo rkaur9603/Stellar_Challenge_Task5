@@ -19,6 +19,11 @@
   <img src="https://github.com/rkaur9603/Stellar_Challenge_Task5/blob/38c9f9b6c76884f4fc02a8bd3439c0982dffce72/img/img7.png" alt="IGDTUW6" width="800" height="500">
 </div>
 
+<h2> Here is this the repository of a classmate which is forked, some changes are made and a pull request is made</h2>
+<h3> Here is the link of forked repository https://github.com/rkaur9603/new_repo.git </h3>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/rkaur9603/Stellar_Challenge_Task5/blob/32cd2122c8a71e7d5ebaf3f0c45bbe7b614ae0aa/img/img8.png" alt="IGDTUW7" width="1000" height="250">
+</div>
 
 
 
